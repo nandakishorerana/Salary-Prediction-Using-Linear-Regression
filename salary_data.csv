@@ -1,0 +1,1001 @@
+Years_of_Experience,Job_Title,Education_Level,Location,Industry,Salary_INR
+6,Data Analyst,High School,Mumbai,Healthcare,535554
+19,Web Developer,Master's,Hyderabad,Finance,1196922
+14,ML Engineer,High School,Mumbai,Education,913409
+10,Data Analyst,Master's,Mumbai,IT,736639
+7,Backend Developer,PhD,Delhi,Finance,744699
+20,Data Analyst,Bachelor's,Hyderabad,IT,1219692
+6,Software Engineer,High School,Kolkata,Finance,589037
+18,Software Engineer,Master's,Bangalore,Finance,1285272
+10,ML Engineer,High School,Mumbai,Retail,888487
+10,Web Developer,High School,Bangalore,Education,718074
+20,ML Engineer,Bachelor's,Kolkata,Education,1346621
+3,ML Engineer,PhD,Bangalore,Finance,379963
+7,ML Engineer,High School,Kolkata,Healthcare,602265
+2,ML Engineer,Master's,Delhi,Healthcare,316061
+20,Backend Developer,Master's,Mumbai,IT,1389298
+1,Backend Developer,PhD,Kolkata,IT,409882
+11,Data Analyst,Master's,Bangalore,Retail,941078
+5,Software Engineer,PhD,Mumbai,Finance,563502
+1,ML Engineer,Master's,Delhi,IT,272800
+20,Data Analyst,Bachelor's,Mumbai,IT,1316192
+0,Software Engineer,High School,Kolkata,Finance,307228
+11,Web Developer,Bachelor's,Delhi,Retail,938839
+11,Backend Developer,High School,Bangalore,IT,778054
+16,Software Engineer,High School,Delhi,Retail,1176469
+9,Web Developer,High School,Delhi,Education,663233
+15,Software Engineer,Bachelor's,Hyderabad,Retail,1106140
+14,Backend Developer,High School,Delhi,Healthcare,965727
+14,Backend Developer,Bachelor's,Delhi,Healthcare,990610
+18,Data Analyst,PhD,Mumbai,Retail,1170453
+11,ML Engineer,Master's,Bangalore,Healthcare,854135
+19,Software Engineer,Master's,Mumbai,Education,1306904
+2,Software Engineer,High School,Mumbai,Finance,408464
+4,Web Developer,Bachelor's,Kolkata,Healthcare,413682
+18,Backend Developer,Master's,Mumbai,Healthcare,1254455
+6,Software Engineer,Bachelor's,Hyderabad,Retail,558160
+20,Backend Developer,Bachelor's,Hyderabad,Education,1223666
+8,Software Engineer,High School,Kolkata,Finance,658817
+6,Data Analyst,Master's,Bangalore,Retail,591198
+17,ML Engineer,High School,Bangalore,Retail,1215714
+3,Software Engineer,High School,Mumbai,Education,391830
+13,Backend Developer,Master's,Mumbai,Finance,860234
+17,Data Analyst,Master's,Mumbai,Education,1107616
+8,Software Engineer,PhD,Bangalore,Finance,609221
+20,Web Developer,PhD,Delhi,Education,1342482
+1,ML Engineer,Bachelor's,Hyderabad,Retail,442485
+19,Software Engineer,Master's,Delhi,Retail,1151051
+14,Data Analyst,PhD,Delhi,IT,1010529
+6,Web Developer,Bachelor's,Bangalore,Healthcare,576918
+11,Data Analyst,Bachelor's,Delhi,Education,828116
+7,Data Analyst,Bachelor's,Kolkata,IT,672226
+14,Web Developer,PhD,Mumbai,Healthcare,1087635
+2,Data Analyst,Master's,Kolkata,Education,344757
+13,Web Developer,High School,Hyderabad,Finance,971008
+16,Software Engineer,Bachelor's,Mumbai,Healthcare,1182329
+3,Web Developer,PhD,Delhi,Retail,481379
+17,Web Developer,PhD,Hyderabad,IT,1106889
+7,ML Engineer,High School,Mumbai,Healthcare,749967
+3,Web Developer,High School,Delhi,Healthcare,385944
+1,Web Developer,PhD,Kolkata,Retail,349555
+5,Software Engineer,Master's,Mumbai,Education,488134
+9,ML Engineer,High School,Delhi,Finance,808395
+3,Backend Developer,PhD,Kolkata,Retail,375954
+17,Software Engineer,High School,Hyderabad,Finance,1236093
+11,Software Engineer,Master's,Hyderabad,Education,839959
+1,Backend Developer,Bachelor's,Hyderabad,Healthcare,254992
+9,Web Developer,High School,Hyderabad,Finance,651961
+3,Data Analyst,Master's,Bangalore,IT,362497
+13,ML Engineer,PhD,Mumbai,IT,1013623
+15,Data Analyst,High School,Mumbai,Retail,1136827
+14,Backend Developer,High School,Bangalore,Education,913255
+7,Software Engineer,PhD,Delhi,Retail,685639
+13,Software Engineer,Bachelor's,Delhi,Retail,898847
+7,ML Engineer,PhD,Hyderabad,Retail,729075
+20,Software Engineer,High School,Kolkata,IT,1220389
+15,Software Engineer,PhD,Delhi,IT,1125595
+12,ML Engineer,Master's,Kolkata,Retail,923802
+17,ML Engineer,PhD,Mumbai,IT,1111576
+14,Backend Developer,High School,Kolkata,Education,943919
+20,Software Engineer,PhD,Mumbai,Retail,1203358
+12,Software Engineer,Bachelor's,Bangalore,IT,888535
+8,Backend Developer,PhD,Bangalore,Finance,705982
+14,Web Developer,Bachelor's,Hyderabad,Retail,905698
+12,Web Developer,Master's,Delhi,Retail,866809
+0,Web Developer,Bachelor's,Hyderabad,Education,293079
+6,Backend Developer,PhD,Mumbai,Healthcare,555805
+8,Software Engineer,High School,Hyderabad,Healthcare,762421
+0,Backend Developer,Bachelor's,Kolkata,Education,381320
+11,Backend Developer,Master's,Mumbai,Education,825033
+7,Web Developer,Bachelor's,Bangalore,Education,648239
+10,Data Analyst,Bachelor's,Delhi,Healthcare,830407
+18,Software Engineer,Bachelor's,Mumbai,Education,1144041
+16,Web Developer,Master's,Mumbai,IT,1031954
+7,Data Analyst,PhD,Kolkata,Retail,558002
+2,Data Analyst,Bachelor's,Delhi,Retail,369783
+2,ML Engineer,Bachelor's,Bangalore,Finance,407524
+0,Software Engineer,High School,Mumbai,Finance,324857
+4,Data Analyst,Master's,Mumbai,Retail,419738
+9,Web Developer,Bachelor's,Kolkata,IT,660703
+6,ML Engineer,Master's,Hyderabad,Healthcare,613776
+8,Software Engineer,Bachelor's,Bangalore,Healthcare,780494
+6,Backend Developer,PhD,Delhi,IT,692971
+8,Web Developer,PhD,Mumbai,Healthcare,743464
+7,Data Analyst,Bachelor's,Mumbai,Education,594724
+11,Data Analyst,PhD,Bangalore,Retail,782299
+1,Web Developer,Bachelor's,Hyderabad,Retail,265641
+0,Data Analyst,PhD,Mumbai,IT,279534
+15,ML Engineer,High School,Bangalore,Healthcare,956305
+4,Software Engineer,High School,Kolkata,Finance,418782
+2,ML Engineer,High School,Hyderabad,Finance,378257
+11,Data Analyst,Master's,Delhi,Healthcare,827963
+7,Backend Developer,Master's,Mumbai,Finance,671987
+2,Software Engineer,High School,Bangalore,IT,451638
+0,Software Engineer,Master's,Kolkata,IT,324591
+2,Web Developer,PhD,Delhi,Healthcare,367766
+4,Web Developer,Bachelor's,Bangalore,Finance,406511
+14,Backend Developer,Bachelor's,Bangalore,IT,1014816
+13,Software Engineer,Bachelor's,Delhi,IT,1007249
+2,Backend Developer,High School,Kolkata,Education,304765
+0,Web Developer,Master's,Kolkata,Education,351426
+4,Web Developer,PhD,Hyderabad,IT,423929
+13,Software Engineer,PhD,Mumbai,Healthcare,1009892
+6,ML Engineer,High School,Delhi,Retail,611576
+8,Data Analyst,PhD,Delhi,Retail,760595
+14,Web Developer,PhD,Delhi,IT,971088
+14,Web Developer,PhD,Kolkata,IT,1097235
+9,ML Engineer,PhD,Mumbai,IT,727525
+12,ML Engineer,Master's,Hyderabad,Healthcare,813780
+18,Backend Developer,PhD,Bangalore,Education,1106589
+6,Backend Developer,Bachelor's,Bangalore,IT,665884
+16,Data Analyst,High School,Delhi,IT,1093664
+19,Data Analyst,Master's,Mumbai,Finance,1327011
+3,Software Engineer,PhD,Kolkata,Healthcare,532565
+4,Backend Developer,Master's,Mumbai,IT,504188
+6,Web Developer,PhD,Mumbai,Finance,593326
+12,Backend Developer,Bachelor's,Kolkata,Retail,840953
+14,Web Developer,High School,Delhi,IT,965785
+10,ML Engineer,PhD,Mumbai,IT,719309
+3,Backend Developer,PhD,Bangalore,Finance,404195
+12,ML Engineer,PhD,Kolkata,Healthcare,825901
+6,Data Analyst,PhD,Hyderabad,IT,654648
+18,Data Analyst,High School,Delhi,Retail,1262580
+1,Software Engineer,High School,Kolkata,IT,275464
+9,Backend Developer,Bachelor's,Hyderabad,Retail,841353
+12,ML Engineer,High School,Hyderabad,Education,816260
+20,Web Developer,PhD,Mumbai,Education,1324997
+5,Data Analyst,Bachelor's,Mumbai,Retail,485440
+11,Data Analyst,Bachelor's,Mumbai,Healthcare,845082
+11,Web Developer,Bachelor's,Kolkata,IT,855583
+19,ML Engineer,PhD,Kolkata,IT,1206683
+10,ML Engineer,Master's,Delhi,Education,824206
+6,Backend Developer,PhD,Mumbai,Retail,672502
+0,Backend Developer,High School,Hyderabad,IT,333059
+0,Software Engineer,High School,Bangalore,IT,356177
+19,Data Analyst,PhD,Delhi,Healthcare,1228484
+12,Backend Developer,PhD,Kolkata,Finance,944098
+8,ML Engineer,Bachelor's,Delhi,Education,668309
+2,Web Developer,PhD,Delhi,Education,345927
+6,ML Engineer,Bachelor's,Delhi,Finance,688607
+5,Data Analyst,High School,Delhi,IT,492946
+7,ML Engineer,Bachelor's,Bangalore,Healthcare,676503
+8,Software Engineer,PhD,Mumbai,Healthcare,787633
+4,Data Analyst,High School,Hyderabad,Education,541449
+0,Web Developer,Master's,Delhi,Healthcare,253592
+18,Software Engineer,Bachelor's,Delhi,Finance,1238419
+9,Data Analyst,High School,Delhi,IT,683776
+11,Web Developer,Bachelor's,Mumbai,Finance,884855
+14,Software Engineer,High School,Kolkata,Retail,955798
+8,Software Engineer,High School,Kolkata,Education,735370
+19,Data Analyst,Bachelor's,Bangalore,Healthcare,1220204
+16,Backend Developer,Master's,Kolkata,Retail,1086207
+16,Software Engineer,High School,Delhi,Healthcare,1100356
+19,Software Engineer,High School,Delhi,IT,1336233
+11,Web Developer,High School,Delhi,IT,810652
+6,ML Engineer,Master's,Bangalore,IT,665556
+1,Data Analyst,Master's,Delhi,Healthcare,379572
+2,Data Analyst,PhD,Kolkata,Retail,320922
+16,Backend Developer,Bachelor's,Mumbai,IT,1165100
+4,Backend Developer,Master's,Mumbai,Retail,551388
+16,Data Analyst,Bachelor's,Hyderabad,Healthcare,1076996
+16,Backend Developer,PhD,Kolkata,Retail,1148040
+16,Web Developer,Bachelor's,Delhi,Healthcare,1030266
+1,Data Analyst,Master's,Mumbai,Healthcare,405072
+1,Backend Developer,Bachelor's,Kolkata,Education,395083
+4,Data Analyst,Master's,Mumbai,Healthcare,402866
+0,ML Engineer,Bachelor's,Delhi,Healthcare,312669
+0,Software Engineer,Master's,Mumbai,Finance,205898
+18,Data Analyst,Master's,Hyderabad,IT,1118395
+1,Software Engineer,Bachelor's,Hyderabad,Education,420091
+20,Backend Developer,PhD,Mumbai,Education,1204006
+11,Software Engineer,High School,Kolkata,Education,915465
+5,Data Analyst,PhD,Kolkata,Finance,460956
+3,ML Engineer,Bachelor's,Kolkata,Healthcare,531114
+10,Backend Developer,PhD,Mumbai,IT,837150
+16,Data Analyst,Master's,Kolkata,Retail,1160703
+5,Backend Developer,High School,Delhi,Healthcare,545676
+4,Web Developer,Bachelor's,Hyderabad,Finance,521724
+19,Software Engineer,Bachelor's,Delhi,Healthcare,1212901
+1,Web Developer,Bachelor's,Kolkata,Healthcare,357227
+5,Data Analyst,High School,Delhi,Finance,567192
+10,ML Engineer,Master's,Kolkata,Education,872646
+15,Backend Developer,Bachelor's,Mumbai,Education,981417
+15,Software Engineer,PhD,Delhi,IT,1038020
+0,Backend Developer,Bachelor's,Mumbai,IT,283639
+8,Data Analyst,Bachelor's,Mumbai,Education,796078
+5,Backend Developer,Bachelor's,Bangalore,Retail,544881
+15,Software Engineer,Bachelor's,Kolkata,Healthcare,1120526
+2,Data Analyst,Master's,Hyderabad,Retail,432659
+19,Backend Developer,PhD,Kolkata,Healthcare,1271688
+3,ML Engineer,Master's,Hyderabad,Education,465584
+18,Data Analyst,PhD,Kolkata,IT,1285782
+2,Data Analyst,Bachelor's,Mumbai,IT,386567
+18,ML Engineer,High School,Delhi,Retail,1175886
+19,Web Developer,Master's,Delhi,IT,1299888
+6,Software Engineer,High School,Bangalore,Education,529432
+19,Web Developer,Master's,Hyderabad,Retail,1329689
+8,Backend Developer,Bachelor's,Hyderabad,Healthcare,672373
+0,ML Engineer,Master's,Hyderabad,IT,365289
+7,Web Developer,Bachelor's,Mumbai,Finance,570884
+6,Data Analyst,Master's,Hyderabad,IT,505454
+17,Backend Developer,Bachelor's,Delhi,Healthcare,1124960
+7,Backend Developer,Bachelor's,Mumbai,Retail,652421
+0,Web Developer,PhD,Kolkata,Healthcare,243618
+10,Web Developer,Bachelor's,Hyderabad,Finance,893743
+17,ML Engineer,PhD,Hyderabad,Education,1097111
+9,Software Engineer,Bachelor's,Kolkata,IT,820685
+2,Web Developer,High School,Hyderabad,Retail,420592
+6,Web Developer,Bachelor's,Kolkata,Education,559993
+15,Data Analyst,High School,Mumbai,Healthcare,1078652
+15,Backend Developer,High School,Delhi,Retail,1089920
+19,Software Engineer,Bachelor's,Kolkata,Education,1228672
+16,Data Analyst,High School,Bangalore,Retail,1066125
+1,ML Engineer,PhD,Kolkata,Finance,367509
+0,ML Engineer,Master's,Hyderabad,Finance,261602
+15,Web Developer,Bachelor's,Mumbai,IT,992222
+11,Web Developer,High School,Mumbai,IT,799223
+4,ML Engineer,Bachelor's,Kolkata,Finance,465333
+4,Web Developer,PhD,Delhi,Retail,583804
+8,Software Engineer,Bachelor's,Bangalore,Finance,722650
+8,Web Developer,Bachelor's,Mumbai,IT,649420
+2,Backend Developer,High School,Hyderabad,Finance,375504
+18,Web Developer,PhD,Hyderabad,Finance,1102462
+15,Data Analyst,Master's,Delhi,Retail,959460
+15,Software Engineer,Master's,Mumbai,Education,1049319
+2,Data Analyst,High School,Kolkata,IT,440347
+19,Data Analyst,Bachelor's,Hyderabad,Retail,1294341
+0,Backend Developer,High School,Delhi,Finance,329593
+19,Software Engineer,High School,Mumbai,Finance,1272672
+10,Software Engineer,High School,Mumbai,Education,897014
+16,Software Engineer,Bachelor's,Mumbai,IT,1072920
+7,Software Engineer,PhD,Mumbai,IT,572553
+3,Software Engineer,High School,Mumbai,Healthcare,505438
+5,Backend Developer,Bachelor's,Hyderabad,IT,494036
+7,Web Developer,PhD,Delhi,Education,698441
+19,Data Analyst,High School,Mumbai,Healthcare,1292867
+2,Software Engineer,Master's,Bangalore,Healthcare,370021
+15,Web Developer,PhD,Bangalore,Finance,1057205
+2,Web Developer,High School,Delhi,Finance,499226
+17,Data Analyst,PhD,Kolkata,IT,1211215
+13,Backend Developer,PhD,Kolkata,Healthcare,1010497
+17,ML Engineer,PhD,Kolkata,Finance,1138209
+1,ML Engineer,PhD,Bangalore,Education,325139
+2,Web Developer,PhD,Kolkata,Finance,305368
+15,Data Analyst,PhD,Hyderabad,Finance,1085693
+8,ML Engineer,High School,Mumbai,Healthcare,658829
+3,Web Developer,Master's,Bangalore,Healthcare,479036
+0,Backend Developer,Bachelor's,Delhi,Retail,391366
+3,ML Engineer,PhD,Delhi,Education,364719
+0,Web Developer,Bachelor's,Mumbai,Healthcare,229227
+13,Web Developer,High School,Bangalore,IT,959430
+20,Software Engineer,PhD,Kolkata,Education,1338638
+15,Backend Developer,Master's,Kolkata,Education,962306
+19,Software Engineer,Bachelor's,Hyderabad,Healthcare,1203822
+7,Data Analyst,PhD,Hyderabad,Education,574042
+6,Software Engineer,High School,Kolkata,Healthcare,646158
+2,Software Engineer,Master's,Delhi,Finance,448459
+16,ML Engineer,Bachelor's,Delhi,Retail,1158114
+0,Web Developer,Bachelor's,Hyderabad,Finance,289424
+15,Backend Developer,PhD,Mumbai,Healthcare,1132690
+11,Software Engineer,Master's,Kolkata,Healthcare,899395
+18,Backend Developer,Master's,Hyderabad,Finance,1118019
+13,Software Engineer,Master's,Hyderabad,IT,925426
+5,Data Analyst,Master's,Kolkata,IT,490863
+5,Software Engineer,High School,Kolkata,IT,561023
+12,ML Engineer,Master's,Delhi,Healthcare,941355
+18,Web Developer,Bachelor's,Mumbai,Education,1249351
+7,Data Analyst,Bachelor's,Mumbai,Healthcare,596999
+1,Software Engineer,High School,Kolkata,Education,312780
+20,Backend Developer,Bachelor's,Bangalore,Finance,1222908
+0,Data Analyst,Bachelor's,Hyderabad,Retail,392656
+14,Data Analyst,Master's,Hyderabad,Education,1026278
+0,Software Engineer,Bachelor's,Kolkata,IT,313002
+4,Data Analyst,High School,Bangalore,Healthcare,581297
+15,Backend Developer,Master's,Delhi,Finance,1119024
+18,Data Analyst,PhD,Kolkata,IT,1200706
+3,Backend Developer,Master's,Kolkata,Finance,518735
+2,Software Engineer,High School,Hyderabad,Retail,422019
+16,Web Developer,Master's,Kolkata,Healthcare,1109708
+16,Data Analyst,Master's,Kolkata,Healthcare,1192453
+11,Web Developer,High School,Kolkata,Retail,929001
+13,Backend Developer,Master's,Hyderabad,Healthcare,859343
+20,Data Analyst,High School,Delhi,Education,1276173
+5,ML Engineer,High School,Delhi,Finance,550260
+2,Web Developer,PhD,Kolkata,IT,470863
+8,Data Analyst,Bachelor's,Hyderabad,Retail,760206
+4,Web Developer,Bachelor's,Delhi,Education,578173
+16,Data Analyst,Master's,Delhi,IT,1069443
+13,Software Engineer,Master's,Delhi,IT,907530
+20,Web Developer,PhD,Hyderabad,Retail,1377871
+2,ML Engineer,PhD,Hyderabad,Education,435899
+0,ML Engineer,PhD,Kolkata,IT,296143
+19,Backend Developer,High School,Mumbai,IT,1343725
+20,Data Analyst,PhD,Delhi,Education,1344771
+0,Web Developer,PhD,Mumbai,Healthcare,314527
+2,Backend Developer,Master's,Hyderabad,IT,436385
+17,Web Developer,PhD,Hyderabad,Finance,1194670
+9,Data Analyst,High School,Hyderabad,Education,761362
+2,ML Engineer,High School,Mumbai,IT,328807
+7,Software Engineer,Master's,Hyderabad,Retail,726298
+13,ML Engineer,PhD,Kolkata,Finance,909550
+17,Backend Developer,PhD,Hyderabad,IT,1053558
+14,Software Engineer,High School,Bangalore,Finance,950113
+1,Backend Developer,PhD,Mumbai,Finance,302999
+9,Data Analyst,PhD,Bangalore,Healthcare,836950
+1,Software Engineer,PhD,Hyderabad,Finance,417415
+16,Backend Developer,Bachelor's,Kolkata,Healthcare,1058219
+7,Data Analyst,Master's,Delhi,Education,716258
+0,ML Engineer,Bachelor's,Hyderabad,Healthcare,368038
+8,Data Analyst,Master's,Kolkata,Retail,764841
+10,Web Developer,High School,Mumbai,IT,753218
+15,Data Analyst,PhD,Bangalore,Education,969229
+6,Data Analyst,Master's,Bangalore,Education,575209
+9,Web Developer,Bachelor's,Bangalore,Retail,677877
+2,Backend Developer,PhD,Mumbai,Healthcare,489073
+17,Backend Developer,High School,Kolkata,IT,1147137
+12,Data Analyst,Master's,Mumbai,Healthcare,838084
+6,Web Developer,Master's,Bangalore,Finance,581780
+3,Web Developer,Master's,Hyderabad,Healthcare,497878
+12,ML Engineer,PhD,Delhi,Education,837034
+19,Backend Developer,Bachelor's,Mumbai,IT,1321389
+0,Software Engineer,Bachelor's,Mumbai,Healthcare,255468
+7,Backend Developer,Master's,Kolkata,IT,700166
+13,Backend Developer,High School,Kolkata,IT,1038868
+15,ML Engineer,High School,Mumbai,Finance,960589
+13,Software Engineer,Bachelor's,Bangalore,Finance,907221
+11,ML Engineer,High School,Delhi,Education,751657
+18,Software Engineer,Bachelor's,Kolkata,Retail,1198300
+14,Data Analyst,Master's,Bangalore,IT,1017229
+1,Software Engineer,Bachelor's,Hyderabad,Retail,289531
+1,ML Engineer,Bachelor's,Kolkata,Education,302227
+18,Backend Developer,Master's,Bangalore,IT,1103164
+16,Software Engineer,High School,Bangalore,IT,1093078
+19,Software Engineer,Bachelor's,Delhi,Retail,1191247
+9,Web Developer,Bachelor's,Delhi,Healthcare,800673
+5,Backend Developer,Master's,Hyderabad,Finance,500599
+14,Data Analyst,High School,Bangalore,Healthcare,1035624
+10,ML Engineer,Bachelor's,Bangalore,Retail,840489
+4,Data Analyst,Master's,Delhi,Finance,589651
+0,Backend Developer,Bachelor's,Kolkata,Healthcare,268207
+7,Software Engineer,PhD,Kolkata,Finance,622055
+20,Software Engineer,Master's,Mumbai,IT,1302266
+11,Backend Developer,High School,Delhi,Healthcare,828270
+11,Software Engineer,High School,Mumbai,Finance,861426
+4,Software Engineer,High School,Delhi,Finance,534794
+6,Software Engineer,High School,Hyderabad,Finance,570442
+3,ML Engineer,Bachelor's,Bangalore,Healthcare,445632
+5,ML Engineer,Bachelor's,Hyderabad,Education,621103
+12,Web Developer,High School,Delhi,Healthcare,821438
+19,Data Analyst,High School,Bangalore,Retail,1208819
+14,Backend Developer,High School,Kolkata,Healthcare,943856
+2,Backend Developer,Bachelor's,Kolkata,Finance,464648
+7,Backend Developer,High School,Mumbai,IT,591938
+19,Web Developer,High School,Delhi,Healthcare,1330100
+15,ML Engineer,PhD,Delhi,Healthcare,1009807
+12,Web Developer,PhD,Kolkata,Finance,849877
+17,Backend Developer,High School,Hyderabad,IT,1093461
+9,Data Analyst,Master's,Bangalore,IT,743474
+18,Software Engineer,High School,Hyderabad,Retail,1271541
+16,ML Engineer,PhD,Hyderabad,Healthcare,1083136
+18,ML Engineer,Master's,Kolkata,IT,1120435
+4,Web Developer,Master's,Kolkata,IT,545263
+20,ML Engineer,High School,Kolkata,Education,1284726
+8,Backend Developer,PhD,Mumbai,Education,758458
+11,Backend Developer,PhD,Hyderabad,IT,912793
+20,Web Developer,Master's,Delhi,Retail,1254786
+0,Backend Developer,High School,Bangalore,IT,213704
+0,Data Analyst,Bachelor's,Mumbai,Finance,256635
+14,Web Developer,Bachelor's,Delhi,Healthcare,1033195
+1,Data Analyst,PhD,Hyderabad,Retail,340710
+15,Software Engineer,Bachelor's,Kolkata,Finance,1012993
+7,Data Analyst,PhD,Hyderabad,Retail,662752
+12,Software Engineer,PhD,Bangalore,Finance,956488
+20,Software Engineer,PhD,Mumbai,Healthcare,1332886
+0,Data Analyst,Bachelor's,Mumbai,Healthcare,278537
+15,Web Developer,PhD,Bangalore,Education,1000258
+6,Backend Developer,Master's,Delhi,Finance,647580
+4,Backend Developer,High School,Delhi,Education,485166
+2,Software Engineer,High School,Mumbai,Finance,413710
+11,Software Engineer,PhD,Mumbai,Education,785699
+15,Web Developer,High School,Kolkata,Healthcare,996335
+18,ML Engineer,Bachelor's,Delhi,Retail,1146806
+4,Data Analyst,Bachelor's,Bangalore,Education,477853
+13,Software Engineer,High School,Delhi,Finance,1044840
+4,Backend Developer,Bachelor's,Kolkata,Finance,435739
+14,Web Developer,High School,Mumbai,Healthcare,934785
+16,Data Analyst,High School,Mumbai,Finance,1163052
+13,Web Developer,High School,Kolkata,IT,935016
+19,Data Analyst,PhD,Bangalore,Retail,1282681
+4,Data Analyst,High School,Mumbai,Education,466253
+11,Software Engineer,PhD,Hyderabad,Retail,841128
+15,Web Developer,High School,Mumbai,Healthcare,1109213
+15,Web Developer,High School,Hyderabad,Education,1111081
+20,Backend Developer,High School,Kolkata,Education,1327581
+6,Backend Developer,Bachelor's,Kolkata,IT,610966
+3,Software Engineer,PhD,Mumbai,Healthcare,487854
+0,Software Engineer,PhD,Delhi,Finance,299352
+4,ML Engineer,High School,Hyderabad,IT,557005
+9,Backend Developer,High School,Bangalore,IT,727154
+4,Data Analyst,Bachelor's,Mumbai,Retail,539379
+3,Web Developer,Bachelor's,Bangalore,Retail,458297
+1,Software Engineer,Bachelor's,Mumbai,Retail,288346
+19,Web Developer,PhD,Delhi,IT,1262138
+9,Web Developer,PhD,Delhi,Finance,700772
+18,ML Engineer,PhD,Delhi,Education,1140149
+0,Backend Developer,High School,Delhi,Retail,286700
+4,Software Engineer,PhD,Kolkata,Finance,558598
+12,Web Developer,Master's,Kolkata,Healthcare,896758
+3,Software Engineer,Master's,Hyderabad,Retail,478447
+15,Data Analyst,Bachelor's,Bangalore,Education,1149549
+15,ML Engineer,PhD,Mumbai,Healthcare,955695
+1,Data Analyst,Master's,Mumbai,Healthcare,289169
+16,Software Engineer,Bachelor's,Kolkata,Education,1047947
+19,Software Engineer,PhD,Mumbai,Retail,1328296
+11,Backend Developer,High School,Kolkata,IT,795865
+17,Web Developer,Master's,Hyderabad,Education,1206625
+2,Web Developer,High School,Bangalore,Education,404501
+0,Data Analyst,PhD,Hyderabad,Education,260410
+0,ML Engineer,Master's,Delhi,Healthcare,303754
+18,Web Developer,PhD,Delhi,Finance,1190895
+10,Backend Developer,High School,Delhi,IT,855888
+4,Data Analyst,Master's,Hyderabad,Retail,586098
+11,Data Analyst,High School,Mumbai,Retail,800705
+2,Backend Developer,PhD,Bangalore,Finance,492994
+0,ML Engineer,PhD,Delhi,Education,315700
+0,Backend Developer,High School,Delhi,IT,273914
+7,ML Engineer,Master's,Delhi,Retail,551881
+9,Backend Developer,High School,Bangalore,Retail,820639
+10,Backend Developer,PhD,Delhi,Education,747365
+11,Software Engineer,High School,Bangalore,Finance,829211
+12,Data Analyst,PhD,Delhi,IT,956078
+11,Backend Developer,High School,Hyderabad,Finance,791198
+13,Backend Developer,Master's,Hyderabad,Finance,1003903
+1,Web Developer,Master's,Bangalore,IT,350649
+18,Data Analyst,High School,Hyderabad,IT,1247531
+17,Web Developer,High School,Bangalore,Retail,1213515
+2,Data Analyst,Master's,Hyderabad,Retail,473388
+16,Web Developer,PhD,Hyderabad,IT,1195558
+7,Backend Developer,Master's,Bangalore,Healthcare,686949
+9,Backend Developer,PhD,Mumbai,Retail,689553
+1,Software Engineer,High School,Hyderabad,Healthcare,385994
+18,Web Developer,High School,Delhi,IT,1222778
+8,ML Engineer,PhD,Mumbai,Retail,717018
+6,Software Engineer,High School,Bangalore,Finance,635758
+3,Web Developer,PhD,Mumbai,IT,382766
+20,Web Developer,Bachelor's,Kolkata,Education,1232006
+17,Software Engineer,Master's,Kolkata,Healthcare,1081422
+12,Backend Developer,Bachelor's,Hyderabad,IT,916590
+10,Web Developer,PhD,Hyderabad,IT,712205
+3,Backend Developer,Master's,Delhi,Retail,504599
+20,Software Engineer,PhD,Mumbai,Retail,1349515
+3,Backend Developer,Master's,Kolkata,Retail,497596
+9,Data Analyst,Master's,Hyderabad,Education,766477
+4,ML Engineer,Master's,Mumbai,Retail,428202
+8,Web Developer,Master's,Hyderabad,IT,796624
+2,ML Engineer,PhD,Hyderabad,Retail,477214
+16,Backend Developer,Master's,Kolkata,Finance,1061692
+2,Web Developer,Master's,Kolkata,Retail,320855
+15,Backend Developer,Bachelor's,Hyderabad,Education,1141444
+3,Data Analyst,High School,Bangalore,Finance,375095
+17,Software Engineer,High School,Hyderabad,IT,1219796
+16,Web Developer,Bachelor's,Hyderabad,IT,1049241
+6,Data Analyst,Bachelor's,Delhi,Healthcare,603119
+4,Data Analyst,PhD,Delhi,Finance,452003
+11,Web Developer,PhD,Delhi,Healthcare,949451
+16,Backend Developer,PhD,Bangalore,Finance,1094837
+12,Data Analyst,Bachelor's,Bangalore,Finance,894283
+2,ML Engineer,Bachelor's,Hyderabad,Education,447044
+8,Data Analyst,Master's,Delhi,Healthcare,723805
+16,Backend Developer,PhD,Bangalore,Education,1093846
+16,Backend Developer,PhD,Kolkata,Finance,1022927
+19,ML Engineer,PhD,Hyderabad,IT,1270589
+15,Data Analyst,High School,Mumbai,Finance,1065657
+12,Backend Developer,Master's,Hyderabad,Education,866630
+18,Web Developer,PhD,Mumbai,Healthcare,1204428
+16,Software Engineer,PhD,Delhi,Healthcare,1122035
+3,Software Engineer,PhD,Mumbai,Education,533419
+11,Software Engineer,High School,Delhi,Healthcare,876244
+8,Data Analyst,High School,Kolkata,Retail,669518
+18,ML Engineer,Bachelor's,Mumbai,IT,1276355
+11,Backend Developer,Master's,Hyderabad,IT,831326
+8,Web Developer,Bachelor's,Delhi,IT,743277
+6,Web Developer,Master's,Hyderabad,Healthcare,620243
+13,Data Analyst,High School,Bangalore,Healthcare,862748
+19,Software Engineer,PhD,Delhi,Finance,1302169
+18,Data Analyst,Bachelor's,Mumbai,Finance,1234164
+14,ML Engineer,PhD,Delhi,IT,953311
+15,ML Engineer,Bachelor's,Hyderabad,Retail,972692
+20,Backend Developer,High School,Kolkata,Finance,1324954
+4,Backend Developer,High School,Delhi,Finance,554934
+2,ML Engineer,High School,Mumbai,Healthcare,430035
+11,ML Engineer,Bachelor's,Bangalore,Retail,829507
+19,ML Engineer,Master's,Kolkata,IT,1230152
+20,Data Analyst,Bachelor's,Bangalore,Finance,1204926
+3,ML Engineer,Master's,Delhi,Retail,353969
+20,Web Developer,Bachelor's,Hyderabad,Retail,1235733
+15,Software Engineer,Bachelor's,Hyderabad,IT,1019855
+6,ML Engineer,High School,Mumbai,Retail,541743
+12,Software Engineer,PhD,Hyderabad,Retail,930193
+20,Data Analyst,PhD,Kolkata,Retail,1370948
+9,Software Engineer,Master's,Hyderabad,Finance,757445
+6,Data Analyst,PhD,Mumbai,IT,520323
+13,Web Developer,Bachelor's,Delhi,Retail,866428
+4,Data Analyst,Bachelor's,Delhi,Retail,434578
+2,Data Analyst,High School,Hyderabad,Finance,386486
+10,Backend Developer,High School,Bangalore,IT,764140
+10,ML Engineer,PhD,Delhi,Healthcare,807325
+17,ML Engineer,Master's,Hyderabad,Finance,1133829
+14,Web Developer,PhD,Mumbai,IT,906364
+11,Web Developer,PhD,Hyderabad,Retail,878867
+8,ML Engineer,PhD,Delhi,IT,766421
+9,Backend Developer,PhD,Mumbai,IT,781763
+11,ML Engineer,Bachelor's,Hyderabad,IT,845598
+16,Backend Developer,Master's,Kolkata,Healthcare,1197539
+5,Web Developer,Bachelor's,Mumbai,IT,626968
+6,Software Engineer,Master's,Kolkata,Healthcare,557062
+13,Web Developer,High School,Bangalore,Retail,994933
+12,Web Developer,PhD,Mumbai,Healthcare,888302
+7,Data Analyst,Bachelor's,Kolkata,Retail,613928
+9,Data Analyst,Master's,Delhi,Retail,691347
+8,Data Analyst,High School,Delhi,Healthcare,603121
+17,Data Analyst,High School,Bangalore,Finance,1133793
+1,Backend Developer,PhD,Mumbai,Education,278164
+4,ML Engineer,Master's,Mumbai,IT,425491
+4,Software Engineer,Bachelor's,Mumbai,Education,459222
+5,Web Developer,PhD,Bangalore,IT,604237
+18,Backend Developer,Bachelor's,Mumbai,IT,1103748
+7,Software Engineer,High School,Delhi,Retail,576553
+15,Backend Developer,Bachelor's,Kolkata,IT,1066547
+12,Backend Developer,Bachelor's,Delhi,IT,860380
+0,Web Developer,PhD,Delhi,Healthcare,244331
+19,ML Engineer,Bachelor's,Kolkata,Education,1270617
+16,Data Analyst,PhD,Delhi,Healthcare,1039560
+6,ML Engineer,High School,Bangalore,IT,553865
+12,Web Developer,PhD,Kolkata,Retail,977758
+3,Web Developer,PhD,Delhi,Healthcare,425910
+3,Web Developer,Master's,Hyderabad,Healthcare,485747
+5,Software Engineer,Bachelor's,Delhi,Finance,647778
+18,ML Engineer,High School,Bangalore,IT,1177986
+11,ML Engineer,PhD,Mumbai,Retail,760068
+6,Backend Developer,High School,Delhi,Healthcare,554460
+9,Backend Developer,Master's,Mumbai,Healthcare,750766
+18,Backend Developer,Bachelor's,Hyderabad,Retail,1146418
+6,Web Developer,PhD,Delhi,IT,526206
+2,ML Engineer,Bachelor's,Kolkata,Finance,428180
+12,Web Developer,Master's,Mumbai,Healthcare,800287
+12,Software Engineer,Master's,Hyderabad,Finance,822337
+17,Backend Developer,High School,Kolkata,Education,1201738
+19,Web Developer,PhD,Kolkata,IT,1282233
+7,Web Developer,High School,Kolkata,Education,650667
+8,Software Engineer,Master's,Kolkata,Education,690071
+6,Data Analyst,Bachelor's,Delhi,Education,598064
+0,ML Engineer,High School,Delhi,IT,369823
+2,Data Analyst,High School,Delhi,IT,406511
+12,Backend Developer,Bachelor's,Hyderabad,Retail,945830
+16,Web Developer,High School,Hyderabad,Finance,1196852
+0,Software Engineer,Bachelor's,Hyderabad,Finance,203178
+5,Software Engineer,PhD,Bangalore,Retail,481831
+20,ML Engineer,Bachelor's,Hyderabad,Retail,1333248
+5,Data Analyst,PhD,Delhi,Education,553306
+11,ML Engineer,Bachelor's,Delhi,Retail,914726
+12,Web Developer,Master's,Bangalore,Healthcare,957699
+12,ML Engineer,Master's,Bangalore,Finance,983622
+14,Software Engineer,PhD,Hyderabad,Retail,1012025
+20,Software Engineer,PhD,Mumbai,Healthcare,1375982
+15,Backend Developer,Master's,Bangalore,Healthcare,1040417
+20,Backend Developer,PhD,Kolkata,Healthcare,1389323
+10,Web Developer,Bachelor's,Delhi,Healthcare,866494
+4,Data Analyst,Bachelor's,Kolkata,Education,411984
+3,ML Engineer,Master's,Delhi,Healthcare,439312
+2,Web Developer,High School,Delhi,Education,492458
+18,Backend Developer,Bachelor's,Bangalore,Education,1183291
+19,ML Engineer,PhD,Bangalore,Healthcare,1157135
+17,Backend Developer,High School,Kolkata,Finance,1050320
+14,ML Engineer,High School,Delhi,Healthcare,1052756
+8,Data Analyst,Bachelor's,Kolkata,Healthcare,786985
+16,Web Developer,Bachelor's,Mumbai,Healthcare,1088774
+13,ML Engineer,High School,Kolkata,Finance,1002961
+14,Software Engineer,High School,Hyderabad,IT,998071
+0,Software Engineer,Master's,Kolkata,IT,379971
+20,ML Engineer,PhD,Hyderabad,Education,1341842
+2,ML Engineer,Master's,Hyderabad,Education,470393
+15,ML Engineer,Bachelor's,Hyderabad,Finance,1059863
+10,Software Engineer,Master's,Mumbai,Retail,741777
+11,Software Engineer,Master's,Kolkata,IT,796250
+9,ML Engineer,Master's,Kolkata,Education,723034
+15,Backend Developer,Master's,Mumbai,IT,1054940
+7,Backend Developer,PhD,Delhi,Finance,590130
+5,Data Analyst,PhD,Bangalore,Finance,630418
+11,Web Developer,High School,Kolkata,Retail,883609
+20,Backend Developer,Bachelor's,Bangalore,Retail,1215216
+7,Software Engineer,Master's,Mumbai,Finance,634149
+3,Backend Developer,High School,Delhi,Education,353009
+7,Data Analyst,High School,Delhi,IT,639904
+17,Data Analyst,High School,Delhi,Healthcare,1210399
+4,Web Developer,PhD,Mumbai,Retail,545281
+8,Backend Developer,Master's,Hyderabad,Healthcare,779515
+3,Software Engineer,Master's,Hyderabad,Education,365029
+16,Software Engineer,Bachelor's,Bangalore,Retail,1198685
+8,ML Engineer,Master's,Hyderabad,Healthcare,788069
+0,Software Engineer,Master's,Hyderabad,Education,302171
+20,Web Developer,High School,Delhi,IT,1314456
+19,Web Developer,Bachelor's,Delhi,Education,1212559
+12,Software Engineer,Master's,Bangalore,Retail,864892
+15,Software Engineer,PhD,Kolkata,Finance,1020409
+12,ML Engineer,Master's,Bangalore,IT,939707
+13,Software Engineer,High School,Bangalore,Healthcare,883065
+2,ML Engineer,PhD,Mumbai,Retail,420544
+5,ML Engineer,High School,Mumbai,Finance,557340
+17,Software Engineer,Master's,Bangalore,Education,1083783
+18,Data Analyst,PhD,Bangalore,Finance,1134152
+4,Data Analyst,Bachelor's,Bangalore,Retail,458741
+14,ML Engineer,Bachelor's,Hyderabad,Retail,1007049
+1,Software Engineer,PhD,Mumbai,Finance,432574
+9,Data Analyst,PhD,Bangalore,Education,679092
+17,Software Engineer,High School,Delhi,Finance,1198725
+12,Software Engineer,PhD,Delhi,Retail,971541
+4,Software Engineer,High School,Hyderabad,Retail,486483
+0,Backend Developer,Master's,Hyderabad,Healthcare,321585
+0,Software Engineer,High School,Kolkata,Healthcare,259754
+17,Backend Developer,PhD,Kolkata,IT,1211050
+14,ML Engineer,PhD,Kolkata,Retail,987592
+16,Data Analyst,Master's,Hyderabad,Healthcare,1094543
+10,Data Analyst,PhD,Hyderabad,Finance,743169
+20,Data Analyst,PhD,Hyderabad,Education,1379359
+16,Data Analyst,Bachelor's,Delhi,Finance,1054745
+12,Data Analyst,Bachelor's,Hyderabad,Education,910168
+0,Data Analyst,Master's,Delhi,Healthcare,313985
+1,Data Analyst,High School,Kolkata,IT,255543
+8,ML Engineer,Bachelor's,Kolkata,Finance,787464
+2,Software Engineer,High School,Kolkata,Finance,321067
+0,Web Developer,PhD,Bangalore,Finance,251033
+20,Backend Developer,Bachelor's,Bangalore,Education,1245256
+15,Web Developer,Master's,Mumbai,Healthcare,1103263
+5,Web Developer,Master's,Mumbai,Finance,536803
+16,Software Engineer,Master's,Mumbai,Finance,1118843
+4,Software Engineer,Bachelor's,Bangalore,IT,428992
+4,Software Engineer,High School,Bangalore,IT,448803
+5,Data Analyst,PhD,Mumbai,Healthcare,559975
+2,ML Engineer,High School,Mumbai,Healthcare,494549
+20,Data Analyst,High School,Hyderabad,Retail,1344282
+4,ML Engineer,PhD,Mumbai,IT,426270
+20,ML Engineer,PhD,Hyderabad,Retail,1393080
+4,Web Developer,Bachelor's,Delhi,Education,536269
+9,Web Developer,Bachelor's,Bangalore,Retail,657452
+9,ML Engineer,Bachelor's,Mumbai,Finance,691486
+18,ML Engineer,Bachelor's,Bangalore,Retail,1114859
+16,Data Analyst,Bachelor's,Bangalore,Healthcare,1158308
+20,Data Analyst,PhD,Bangalore,Education,1362971
+13,Web Developer,High School,Delhi,Finance,882083
+8,Software Engineer,Bachelor's,Kolkata,Retail,667708
+13,ML Engineer,Bachelor's,Mumbai,Education,961462
+0,Data Analyst,High School,Kolkata,Education,347735
+18,Web Developer,Bachelor's,Kolkata,Finance,1193076
+12,Data Analyst,High School,Kolkata,Retail,819053
+12,ML Engineer,High School,Bangalore,Education,942157
+3,ML Engineer,PhD,Hyderabad,Education,511636
+0,Backend Developer,Master's,Bangalore,IT,289745
+16,Software Engineer,PhD,Bangalore,Education,1190167
+7,Backend Developer,Master's,Kolkata,IT,619517
+1,Web Developer,Master's,Bangalore,Retail,402225
+7,Data Analyst,Master's,Kolkata,Retail,686319
+6,Web Developer,Bachelor's,Hyderabad,Retail,641625
+1,ML Engineer,PhD,Mumbai,Healthcare,401883
+2,Backend Developer,Master's,Kolkata,Retail,437207
+17,Backend Developer,High School,Hyderabad,Education,1186645
+11,Backend Developer,Bachelor's,Mumbai,Finance,829267
+0,Web Developer,PhD,Delhi,IT,338261
+11,ML Engineer,Master's,Kolkata,Healthcare,830077
+4,Data Analyst,High School,Kolkata,Retail,574718
+16,Data Analyst,PhD,Delhi,Retail,1076623
+15,Web Developer,PhD,Delhi,Finance,1081004
+14,Backend Developer,Bachelor's,Kolkata,Finance,953687
+14,Software Engineer,PhD,Delhi,Healthcare,968312
+4,Web Developer,Bachelor's,Bangalore,IT,507615
+20,Web Developer,Master's,Mumbai,Retail,1330976
+13,ML Engineer,Bachelor's,Mumbai,Healthcare,877564
+1,Data Analyst,High School,Mumbai,Education,278835
+10,Web Developer,Bachelor's,Bangalore,Education,892659
+18,Web Developer,High School,Delhi,Healthcare,1107697
+6,Backend Developer,Bachelor's,Hyderabad,Retail,580165
+5,Backend Developer,PhD,Delhi,Healthcare,598118
+1,Software Engineer,Master's,Kolkata,Retail,307823
+5,ML Engineer,High School,Mumbai,Finance,634442
+17,Software Engineer,Bachelor's,Delhi,Healthcare,1059615
+1,Backend Developer,Bachelor's,Hyderabad,Retail,386132
+17,Data Analyst,Bachelor's,Kolkata,Healthcare,1180499
+14,Backend Developer,PhD,Bangalore,Healthcare,976436
+18,ML Engineer,PhD,Bangalore,Retail,1291591
+1,Backend Developer,High School,Hyderabad,Retail,370562
+19,ML Engineer,High School,Kolkata,IT,1221117
+5,ML Engineer,PhD,Mumbai,Healthcare,642230
+0,ML Engineer,High School,Delhi,Education,234782
+14,ML Engineer,Master's,Kolkata,Healthcare,978533
+9,ML Engineer,Master's,Bangalore,Healthcare,839327
+18,Data Analyst,PhD,Hyderabad,Retail,1172684
+16,Software Engineer,High School,Hyderabad,Healthcare,1187990
+4,Web Developer,Bachelor's,Delhi,Healthcare,479558
+3,Software Engineer,Master's,Hyderabad,Education,431422
+9,ML Engineer,PhD,Hyderabad,Retail,806328
+16,Data Analyst,High School,Kolkata,Healthcare,1161077
+9,Backend Developer,PhD,Mumbai,Finance,656638
+16,Data Analyst,Bachelor's,Delhi,IT,1037419
+19,ML Engineer,Master's,Kolkata,Education,1183377
+4,Data Analyst,PhD,Mumbai,Healthcare,506244
+1,Data Analyst,PhD,Kolkata,Finance,424188
+5,ML Engineer,PhD,Kolkata,Healthcare,617706
+20,Data Analyst,Bachelor's,Hyderabad,Healthcare,1223382
+1,Web Developer,PhD,Mumbai,Retail,437135
+12,Web Developer,Bachelor's,Delhi,Retail,953466
+10,Data Analyst,Bachelor's,Delhi,Retail,767789
+10,Backend Developer,Bachelor's,Mumbai,Finance,810634
+15,ML Engineer,Master's,Hyderabad,Healthcare,1081936
+10,Web Developer,Master's,Bangalore,IT,799572
+18,Backend Developer,PhD,Kolkata,Education,1271294
+14,Data Analyst,PhD,Hyderabad,Retail,1044738
+15,Backend Developer,Master's,Mumbai,Retail,1073664
+10,Software Engineer,High School,Kolkata,Healthcare,852027
+15,Web Developer,Master's,Delhi,Healthcare,1060674
+7,Data Analyst,Bachelor's,Bangalore,Finance,653533
+3,ML Engineer,Master's,Delhi,Finance,431845
+7,Data Analyst,Bachelor's,Mumbai,Retail,619590
+3,ML Engineer,PhD,Kolkata,Healthcare,477775
+2,Data Analyst,High School,Mumbai,IT,366471
+2,Backend Developer,PhD,Kolkata,Education,343298
+17,Backend Developer,Bachelor's,Hyderabad,Healthcare,1244180
+18,Backend Developer,Bachelor's,Bangalore,Healthcare,1148924
+18,Software Engineer,Bachelor's,Hyderabad,Finance,1247781
+20,ML Engineer,High School,Hyderabad,Education,1209726
+4,Backend Developer,Master's,Mumbai,Retail,591896
+17,Software Engineer,PhD,Bangalore,Healthcare,1090542
+9,ML Engineer,PhD,Kolkata,Retail,801317
+20,Data Analyst,Master's,Kolkata,Healthcare,1234753
+5,Software Engineer,PhD,Delhi,Retail,529788
+0,Web Developer,High School,Kolkata,Education,221316
+4,Software Engineer,PhD,Mumbai,Finance,484698
+8,Software Engineer,Bachelor's,Hyderabad,Education,615960
+11,ML Engineer,Master's,Hyderabad,IT,780791
+13,Data Analyst,High School,Hyderabad,Finance,875216
+1,Web Developer,Master's,Bangalore,Education,413539
+16,Backend Developer,High School,Kolkata,IT,1064427
+13,Backend Developer,Bachelor's,Mumbai,Healthcare,962470
+12,Software Engineer,Master's,Bangalore,Healthcare,993119
+8,ML Engineer,PhD,Delhi,Retail,673290
+14,ML Engineer,High School,Mumbai,Finance,947014
+14,Backend Developer,Master's,Mumbai,Healthcare,1035150
+10,Web Developer,PhD,Mumbai,Finance,750519
+15,Data Analyst,Master's,Hyderabad,Healthcare,954042
+16,Web Developer,Master's,Mumbai,Retail,1049052
+3,Data Analyst,Master's,Kolkata,Education,364389
+0,Backend Developer,High School,Mumbai,Retail,295961
+7,Data Analyst,PhD,Hyderabad,IT,618111
+16,ML Engineer,Bachelor's,Mumbai,Healthcare,1105058
+2,Software Engineer,High School,Delhi,IT,393715
+19,Software Engineer,High School,Delhi,IT,1200733
+14,Backend Developer,High School,Hyderabad,Finance,934754
+14,ML Engineer,Bachelor's,Kolkata,Healthcare,1049696
+13,Web Developer,PhD,Kolkata,IT,935886
+13,ML Engineer,PhD,Bangalore,Education,1007753
+1,Software Engineer,PhD,Hyderabad,IT,339524
+12,Software Engineer,Master's,Mumbai,Education,881006
+13,ML Engineer,Master's,Hyderabad,Finance,874704
+18,ML Engineer,Master's,Bangalore,IT,1194913
+6,Software Engineer,Bachelor's,Hyderabad,Retail,594108
+2,Web Developer,Master's,Hyderabad,Finance,307493
+14,Backend Developer,Bachelor's,Bangalore,Education,969639
+13,Backend Developer,PhD,Kolkata,Finance,904383
+10,ML Engineer,Master's,Mumbai,IT,834066
+14,Backend Developer,Master's,Bangalore,Healthcare,947234
+12,Software Engineer,High School,Delhi,Healthcare,978363
+17,Software Engineer,Bachelor's,Kolkata,Education,1178674
+5,ML Engineer,PhD,Delhi,Education,455594
+2,ML Engineer,High School,Kolkata,Healthcare,307371
+18,ML Engineer,High School,Mumbai,Education,1147315
+14,Web Developer,PhD,Mumbai,Finance,1027251
+4,Backend Developer,High School,Hyderabad,Retail,479526
+9,ML Engineer,Bachelor's,Delhi,Retail,797698
+6,Data Analyst,Bachelor's,Kolkata,Finance,586005
+16,Data Analyst,Master's,Mumbai,Retail,1105573
+6,Software Engineer,High School,Bangalore,IT,638202
+11,Backend Developer,Master's,Mumbai,Finance,887900
+16,ML Engineer,High School,Bangalore,Education,1057514
+12,Data Analyst,Bachelor's,Kolkata,Finance,983736
+19,Backend Developer,Bachelor's,Mumbai,Healthcare,1298955
+3,Software Engineer,Bachelor's,Mumbai,Education,524131
+9,Web Developer,High School,Kolkata,Healthcare,824004
+2,Backend Developer,Bachelor's,Mumbai,Education,492341
+8,Backend Developer,High School,Bangalore,Retail,675986
+12,Web Developer,Master's,Mumbai,Finance,885959
+17,Backend Developer,High School,Delhi,IT,1052035
+14,Software Engineer,Master's,Hyderabad,Education,1009767
+3,Software Engineer,High School,Bangalore,Education,521817
+14,Web Developer,Master's,Delhi,Healthcare,917241
+1,ML Engineer,Bachelor's,Kolkata,Retail,302975
+14,Data Analyst,Master's,Bangalore,Healthcare,1054226
+7,ML Engineer,Bachelor's,Hyderabad,Healthcare,706697
+7,Backend Developer,Bachelor's,Hyderabad,Retail,726022
+16,Data Analyst,Master's,Kolkata,IT,1056396
+11,Web Developer,High School,Kolkata,Healthcare,868920
+18,Web Developer,High School,Bangalore,Healthcare,1244403
+9,Data Analyst,PhD,Mumbai,Education,844999
+8,Software Engineer,High School,Kolkata,Retail,686226
+4,Data Analyst,PhD,Mumbai,Finance,484719
+5,Backend Developer,High School,Delhi,IT,513014
+19,Software Engineer,High School,Hyderabad,IT,1189346
+1,Web Developer,Bachelor's,Mumbai,Retail,320411
+12,Data Analyst,PhD,Hyderabad,Education,985550
+5,ML Engineer,High School,Mumbai,Education,593326
+4,ML Engineer,PhD,Delhi,Retail,586806
+0,Backend Developer,Bachelor's,Kolkata,Education,359693
+20,ML Engineer,Bachelor's,Delhi,IT,1276441
+20,Data Analyst,PhD,Kolkata,IT,1246121
+5,Data Analyst,Bachelor's,Kolkata,Finance,510197
+5,ML Engineer,Master's,Hyderabad,Retail,534577
+15,Data Analyst,Master's,Delhi,Healthcare,1044634
+3,Backend Developer,Bachelor's,Mumbai,Healthcare,523503
+10,Software Engineer,Master's,Delhi,Finance,800211
+8,Backend Developer,High School,Hyderabad,Finance,735909
+2,Backend Developer,PhD,Kolkata,Education,480066
+18,Data Analyst,High School,Hyderabad,Finance,1243687
+7,Software Engineer,PhD,Bangalore,Finance,551466
+4,Data Analyst,Bachelor's,Bangalore,Healthcare,430771
+3,Web Developer,High School,Mumbai,Education,433886
+5,Data Analyst,Bachelor's,Hyderabad,Finance,515911
+1,Data Analyst,Bachelor's,Mumbai,Finance,401818
+19,Data Analyst,PhD,Mumbai,Education,1238422
+10,Software Engineer,PhD,Bangalore,Retail,891811
+3,Data Analyst,PhD,Mumbai,Education,423369
+14,Software Engineer,High School,Bangalore,Healthcare,901893
+5,ML Engineer,Master's,Kolkata,Retail,480573
+16,Web Developer,PhD,Hyderabad,IT,1096907
+5,Software Engineer,PhD,Mumbai,Education,621946
+18,ML Engineer,High School,Bangalore,Healthcare,1199956
+1,Software Engineer,PhD,Delhi,Retail,368580
+14,Software Engineer,High School,Mumbai,Education,1064439
+10,Web Developer,Bachelor's,Kolkata,Finance,852271
+7,Backend Developer,PhD,Kolkata,Education,641404
+18,Backend Developer,PhD,Delhi,IT,1157724
+12,Software Engineer,Bachelor's,Bangalore,Education,886133
+11,Data Analyst,Bachelor's,Mumbai,Retail,917477
+4,ML Engineer,Bachelor's,Bangalore,Retail,415989
+5,Data Analyst,PhD,Kolkata,Education,478931
+3,Data Analyst,Master's,Bangalore,Retail,359290
+18,Software Engineer,Master's,Kolkata,Finance,1269439
+19,Software Engineer,Master's,Bangalore,Education,1271136
+0,Software Engineer,PhD,Delhi,Finance,279878
+19,Software Engineer,Bachelor's,Hyderabad,Finance,1240477
+16,Backend Developer,PhD,Delhi,Healthcare,1126299
+11,Software Engineer,Bachelor's,Delhi,Education,911205
+14,Backend Developer,PhD,Hyderabad,Retail,1005686
+0,Backend Developer,PhD,Hyderabad,Finance,358124
+13,Software Engineer,Bachelor's,Mumbai,Healthcare,957286
+5,Web Developer,Master's,Mumbai,Education,490475
+4,ML Engineer,Bachelor's,Delhi,Education,482666
+10,Data Analyst,High School,Delhi,IT,796622
+3,Backend Developer,High School,Kolkata,IT,538728
+12,ML Engineer,Bachelor's,Kolkata,Finance,935705
+10,Web Developer,PhD,Mumbai,IT,848376
+2,Data Analyst,High School,Mumbai,Finance,407573
+0,Data Analyst,High School,Kolkata,Retail,246546
+5,Backend Developer,PhD,Kolkata,Finance,457008
+17,Software Engineer,PhD,Bangalore,IT,1098291
+9,Web Developer,Master's,Bangalore,Retail,808477
+4,Backend Developer,PhD,Kolkata,IT,436386
+9,Web Developer,Bachelor's,Bangalore,Finance,740909
+11,Software Engineer,Bachelor's,Hyderabad,Healthcare,901899
+1,Software Engineer,Master's,Mumbai,Education,283040
+12,Backend Developer,High School,Mumbai,IT,860354
+7,Software Engineer,High School,Kolkata,Finance,628543
+1,ML Engineer,PhD,Delhi,Retail,268157
+19,Data Analyst,Bachelor's,Kolkata,IT,1185315
+0,Backend Developer,High School,Bangalore,IT,235932
+4,Web Developer,Master's,Delhi,Education,552236
+8,ML Engineer,Master's,Bangalore,Finance,745486
+16,Backend Developer,Bachelor's,Hyderabad,Healthcare,1145399
+8,Software Engineer,Master's,Bangalore,Retail,713880
+10,Software Engineer,Master's,Hyderabad,Finance,832018
+14,Software Engineer,Bachelor's,Hyderabad,Retail,914693
+5,Software Engineer,PhD,Bangalore,IT,477241
+2,Web Developer,PhD,Bangalore,Education,415194
+16,ML Engineer,Master's,Hyderabad,Education,1095790
+4,Data Analyst,PhD,Delhi,Healthcare,546612
+11,Web Developer,PhD,Hyderabad,Education,822255
+17,Web Developer,Master's,Mumbai,IT,1245829
+13,Data Analyst,PhD,Hyderabad,Healthcare,1022275
+20,Data Analyst,Master's,Delhi,Finance,1356153
+10,Software Engineer,High School,Mumbai,Education,892933
+8,Web Developer,Bachelor's,Kolkata,Healthcare,611350
+1,Backend Developer,Bachelor's,Kolkata,IT,436584
+11,Data Analyst,PhD,Delhi,Retail,806809
+2,Data Analyst,PhD,Hyderabad,Retail,401894
+2,ML Engineer,PhD,Bangalore,IT,397557
+0,Backend Developer,Bachelor's,Delhi,IT,373904
+7,Backend Developer,High School,Mumbai,Retail,709441
+7,Data Analyst,High School,Mumbai,Healthcare,581728
+10,Software Engineer,Bachelor's,Kolkata,Retail,717576
+8,ML Engineer,High School,Mumbai,IT,760073
+4,Backend Developer,Bachelor's,Delhi,Education,483384
+13,Data Analyst,High School,Mumbai,Finance,850390
+2,Backend Developer,Master's,Delhi,Education,345436
+20,ML Engineer,Master's,Bangalore,Education,1211569
+4,ML Engineer,Bachelor's,Kolkata,IT,544101
+4,Web Developer,High School,Mumbai,Retail,422490
+18,Data Analyst,PhD,Delhi,Healthcare,1145875
+13,ML Engineer,High School,Hyderabad,Education,855867
+3,Web Developer,Master's,Kolkata,Retail,430820
+12,Web Developer,Master's,Bangalore,Healthcare,899515
+9,Backend Developer,High School,Delhi,Education,659121
+17,Backend Developer,High School,Bangalore,Healthcare,1051539
+7,Web Developer,PhD,Bangalore,Retail,698099
+7,Backend Developer,PhD,Mumbai,Finance,677402
+6,ML Engineer,High School,Mumbai,Retail,574229
+7,Software Engineer,High School,Delhi,IT,689993
+13,ML Engineer,High School,Hyderabad,Healthcare,900435
+18,Web Developer,High School,Delhi,Finance,1241382
+5,Web Developer,Bachelor's,Hyderabad,Healthcare,513965
+0,ML Engineer,High School,Bangalore,Healthcare,311048
+14,Backend Developer,PhD,Kolkata,Education,996444
+0,Backend Developer,Master's,Delhi,IT,269922
+16,Web Developer,Bachelor's,Delhi,Healthcare,1097799
+0,Data Analyst,High School,Hyderabad,Retail,293948
+14,Backend Developer,Master's,Bangalore,Retail,1043314
+1,ML Engineer,Bachelor's,Bangalore,Education,258947
+13,Backend Developer,Master's,Hyderabad,IT,1042888
+20,ML Engineer,High School,Bangalore,IT,1248785
+7,Web Developer,High School,Mumbai,Retail,669963
+7,Backend Developer,PhD,Kolkata,Finance,550507
+18,ML Engineer,High School,Delhi,Education,1298044
+6,Web Developer,High School,Kolkata,Education,658223
+18,Data Analyst,Bachelor's,Delhi,Retail,1111618
+5,ML Engineer,PhD,Mumbai,Retail,524286
+5,Data Analyst,Bachelor's,Bangalore,Finance,466122
+2,Data Analyst,Master's,Hyderabad,Finance,438426
+6,Software Engineer,High School,Mumbai,IT,609598
+18,Backend Developer,Master's,Kolkata,Education,1262051
+7,ML Engineer,Bachelor's,Hyderabad,Education,636436
+9,Data Analyst,High School,Bangalore,Retail,833846
+19,Software Engineer,High School,Mumbai,IT,1286109
+14,Web Developer,Bachelor's,Hyderabad,Education,928633
+14,ML Engineer,Bachelor's,Mumbai,IT,924495
+0,Data Analyst,Bachelor's,Mumbai,IT,264550
+19,Backend Developer,Bachelor's,Bangalore,Retail,1186483
+6,Software Engineer,Bachelor's,Delhi,IT,613181
+3,Data Analyst,High School,Hyderabad,Finance,384069
+5,Backend Developer,Bachelor's,Bangalore,Finance,588442
+0,Data Analyst,High School,Mumbai,Healthcare,319873
+4,ML Engineer,High School,Bangalore,Retail,516843
+0,ML Engineer,Bachelor's,Delhi,Healthcare,271947
+3,ML Engineer,Bachelor's,Hyderabad,Finance,520205
+1,Software Engineer,PhD,Delhi,Healthcare,345761
+9,ML Engineer,High School,Kolkata,Retail,763753
+4,Backend Developer,Bachelor's,Hyderabad,Retail,531764
+9,Data Analyst,Bachelor's,Delhi,IT,678926
+0,Web Developer,Bachelor's,Mumbai,Education,299782
+5,Backend Developer,PhD,Hyderabad,IT,554700
+12,Backend Developer,PhD,Hyderabad,Retail,873984
+14,ML Engineer,Master's,Bangalore,Finance,1074462
+3,Software Engineer,High School,Mumbai,Finance,399593
+12,Data Analyst,Master's,Kolkata,IT,875609
+19,Software Engineer,Bachelor's,Delhi,Retail,1155209
+14,Data Analyst,PhD,Bangalore,Finance,1026700
+7,Data Analyst,PhD,Delhi,Retail,687605
+4,Software Engineer,Master's,Kolkata,Finance,486597
+14,Backend Developer,PhD,Kolkata,Retail,907211
+3,Data Analyst,Bachelor's,Hyderabad,Healthcare,359927
+11,Software Engineer,PhD,Kolkata,Retail,867333
+12,Data Analyst,Master's,Delhi,Retail,955666
+1,Web Developer,Bachelor's,Mumbai,IT,326382
+18,Backend Developer,Master's,Mumbai,Healthcare,1239005
+18,ML Engineer,PhD,Hyderabad,Education,1203780
+3,Data Analyst,Master's,Delhi,IT,390696
+3,Web Developer,Master's,Delhi,Education,546521
+10,ML Engineer,High School,Kolkata,Finance,767616
+4,ML Engineer,PhD,Delhi,Education,537161
+19,Data Analyst,PhD,Bangalore,Retail,1337620
+10,Software Engineer,Master's,Kolkata,Education,857195
+9,Data Analyst,High School,Bangalore,IT,788869
+7,Web Developer,PhD,Hyderabad,IT,600013
+5,ML Engineer,Bachelor's,Mumbai,Education,589418
+5,Data Analyst,Master's,Hyderabad,IT,614744
+7,Software Engineer,PhD,Mumbai,IT,698725
+14,Data Analyst,Bachelor's,Hyderabad,Education,949556
